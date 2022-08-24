@@ -1,0 +1,10 @@
+{
+  "name": "hello-world-ts",
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
